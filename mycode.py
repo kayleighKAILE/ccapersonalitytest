@@ -18,7 +18,13 @@ music2 = input("I play a musical instrument well.")
 
 tech3 = input("I can code well")
 
+outdoor3 = input("I learnt how to tie knots and build structures") 
+ 
+music3 = input("I am able to play the piano")
 
+tech4 = input("I am experienced in using phython")
+
+outdoor4 = input("I enjoy outdoor cooking")
 
 print()
 
